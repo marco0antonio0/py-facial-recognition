@@ -29,7 +29,7 @@ Este projeto é uma API desenvolvida em Flask para reconhecimento facial. A API 
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/marco0antonio0/py-facial-recognition
     cd seu-repositorio
     ```
 
